@@ -7,5 +7,6 @@ Sibyl_logs: Union[str, int] = -1001161533311
 Sibyl_approved_logs: Union[str, int] = -1001207987353
 GBAN_MSG_LOGS: Optional[Union[str, int]] = None
 BOT_TOKEN: str = "1566032759:AAEEctQhHnPVPXdNYnHBYnexykkz0YopuxE"
+MONGO_DB_URL: srt = "mongodb+srv://tg-god-usr:xPpLPNSgvBB2OWvk@cluster0.em0bd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 # Remove this line one you have read and understood the explanation of things in https://github.com/AnimeKaizoku/SibylSystem/blob/master/README.md
